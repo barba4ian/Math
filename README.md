@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/barba4ian/Math/tree/main/0009-palindrome-number/) | Easy |
+| [0263-ugly-number](https://github.com/barba4ian/Math/tree/main/0263-ugly-number/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/barba4ian/Math/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
