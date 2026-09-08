@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/barba4ian/Math/tree/main/0118-pascals-triangle/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/barba4ian/Math/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -34,4 +35,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/barba4ian/Math/tree/main/0060-permutation-sequence/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/barba4ian/Math/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
