@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/barba4ian/Math/tree/main/0118-pascals-triangle/) | Easy |
+| [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/barba4ian/Math/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -15,6 +16,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/barba4ian/Math/tree/main/0009-palindrome-number/) | Easy |
 | [0060-permutation-sequence](https://github.com/barba4ian/Math/tree/main/0060-permutation-sequence/) | Hard |
+| [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/barba4ian/Math/tree/main/0263-ugly-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/barba4ian/Math/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/barba4ian/Math/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -45,4 +47,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/barba4ian/Math/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
