@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/barba4ian/Math/tree/main/0009-palindrome-number/) | Easy |
 | [0060-permutation-sequence](https://github.com/barba4ian/Math/tree/main/0060-permutation-sequence/) | Hard |
+| [0172-factorial-trailing-zeroes](https://github.com/barba4ian/Math/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/barba4ian/Math/tree/main/0263-ugly-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/barba4ian/Math/tree/main/0728-self-dividing-numbers/) | Easy |
