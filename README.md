@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/barba4ian/Math/tree/main/0118-pascals-triangle/) | Easy |
 | [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
+| [0812-largest-triangle-area](https://github.com/barba4ian/Math/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/barba4ian/Math/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/barba4ian/Math/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Sorting
@@ -21,6 +22,7 @@
 | [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/barba4ian/Math/tree/main/0263-ugly-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/barba4ian/Math/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0812-largest-triangle-area](https://github.com/barba4ian/Math/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/barba4ian/Math/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/barba4ian/Math/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/barba4ian/Math/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
@@ -78,9 +80,14 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/barba4ian/Math/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/barba4ian/Math/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/barba4ian/Math/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/barba4ian/Math/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
