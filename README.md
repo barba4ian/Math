@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/barba4ian/Math/tree/main/0118-pascals-triangle/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/barba4ian/Math/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
 | [0812-largest-triangle-area](https://github.com/barba4ian/Math/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/barba4ian/Math/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -18,6 +19,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/barba4ian/Math/tree/main/0009-palindrome-number/) | Easy |
 | [0060-permutation-sequence](https://github.com/barba4ian/Math/tree/main/0060-permutation-sequence/) | Hard |
+| [0149-max-points-on-a-line](https://github.com/barba4ian/Math/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/barba4ian/Math/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/barba4ian/Math/tree/main/0223-rectangle-area/) | Medium |
@@ -36,6 +38,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/barba4ian/Math/tree/main/0149-max-points-on-a-line/) | Hard |
 | [1015-smallest-integer-divisible-by-k](https://github.com/barba4ian/Math/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -81,6 +84,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/barba4ian/Math/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0223-rectangle-area](https://github.com/barba4ian/Math/tree/main/0223-rectangle-area/) | Medium |
 | [0812-largest-triangle-area](https://github.com/barba4ian/Math/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/barba4ian/Math/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -92,4 +96,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/barba4ian/Math/tree/main/0812-largest-triangle-area/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/barba4ian/Math/tree/main/0149-max-points-on-a-line/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/barba4ian/Math/tree/main/0149-max-points-on-a-line/) | Hard |
 <!---LeetCode Topics End-->
