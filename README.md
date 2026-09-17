@@ -104,4 +104,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/barba4ian/Math/tree/main/0149-max-points-on-a-line/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/barba4ian/Math/tree/main/0191-number-of-1-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/barba4ian/Math/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
