@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/barba4ian/Math/tree/main/0118-pascals-triangle/) | Easy |
+| [0136-single-number](https://github.com/barba4ian/Math/tree/main/0136-single-number/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/barba4ian/Math/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
 | [0812-largest-triangle-area](https://github.com/barba4ian/Math/tree/main/0812-largest-triangle-area/) | Easy |
@@ -111,5 +112,6 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/barba4ian/Math/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/barba4ian/Math/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
