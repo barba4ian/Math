@@ -25,6 +25,7 @@
 | [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/barba4ian/Math/tree/main/0223-rectangle-area/) | Medium |
 | [0263-ugly-number](https://github.com/barba4ian/Math/tree/main/0263-ugly-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/barba4ian/Math/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/barba4ian/Math/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/barba4ian/Math/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/barba4ian/Math/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -114,4 +115,5 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/barba4ian/Math/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/barba4ian/Math/tree/main/0191-number-of-1-bits/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/barba4ian/Math/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->
