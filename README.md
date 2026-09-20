@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/barba4ian/Math/tree/main/0009-palindrome-number/) | Easy |
 | [0060-permutation-sequence](https://github.com/barba4ian/Math/tree/main/0060-permutation-sequence/) | Hard |
+| [0089-gray-code](https://github.com/barba4ian/Math/tree/main/0089-gray-code/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/barba4ian/Math/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/barba4ian/Math/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
@@ -113,7 +114,12 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/barba4ian/Math/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/barba4ian/Math/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/barba4ian/Math/tree/main/0191-number-of-1-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/barba4ian/Math/tree/main/0371-sum-of-two-integers/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/barba4ian/Math/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
