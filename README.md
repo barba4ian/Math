@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/barba4ian/Math/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/barba4ian/Math/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/barba4ian/Math/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/barba4ian/Math/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
 | [0812-largest-triangle-area](https://github.com/barba4ian/Math/tree/main/0812-largest-triangle-area/) | Easy |
@@ -116,6 +117,7 @@
 | ------- | ------- |
 | [0089-gray-code](https://github.com/barba4ian/Math/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/barba4ian/Math/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/barba4ian/Math/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/barba4ian/Math/tree/main/0191-number-of-1-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/barba4ian/Math/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Backtracking
