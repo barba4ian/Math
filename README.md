@@ -26,6 +26,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/barba4ian/Math/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/barba4ian/Math/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/barba4ian/Math/tree/main/0223-rectangle-area/) | Medium |
+| [0233-number-of-digit-one](https://github.com/barba4ian/Math/tree/main/0233-number-of-digit-one/) | Hard |
 | [0263-ugly-number](https://github.com/barba4ian/Math/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/barba4ian/Math/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/barba4ian/Math/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -52,10 +53,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/barba4ian/Math/tree/main/0060-permutation-sequence/) | Hard |
+| [0233-number-of-digit-one](https://github.com/barba4ian/Math/tree/main/0233-number-of-digit-one/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/barba4ian/Math/tree/main/0118-pascals-triangle/) | Easy |
+| [0233-number-of-digit-one](https://github.com/barba4ian/Math/tree/main/0233-number-of-digit-one/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/barba4ian/Math/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
